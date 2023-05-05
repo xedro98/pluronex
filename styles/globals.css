@@ -43,7 +43,7 @@ pre:has(div.codeblock) {
 }
 .dark .dark\:bg-\[\#343541\] {
   --tw-bg-opacity: 1;
-  background-color: black;
+  background-color: black!important;
   border: 1px solid #ffffff1a;
 }
 .bg-\[\#202123\] {
