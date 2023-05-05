@@ -50,3 +50,13 @@ pre:has(div.codeblock) {
   --tw-bg-opacity: 1;
   background-color: black;
 }
+.dark .dark\:to-\[\#343541\] {
+  --tw-gradient-to: #26262600;
+}
+.dark .dark\:via-\[\#343541\] {
+  --tw-gradient-to: rgba(52,53,65,0);
+  --tw-gradient-stops: var(--tw-gradient-from),#000000,var(--tw-gradient-to);
+}
+.dark .dark\:bg-transparent {
+  background-color: #1f1f1f!important;
+}
