@@ -60,3 +60,14 @@ pre:has(div.codeblock) {
 .dark .dark\:bg-transparent {
   background-color: #1f1f1f!important;
 }
+.dark .dark\:to-\[\#343541\] {
+  --tw-gradient-to: black!important;
+}
+.dark .dark\:via-\[\#343541\] {
+  --tw-gradient-to: rgba(52,53,65,0)!important;
+  --tw-gradient-stops: black!important;
+}
+.dark .dark\:bg-\[\#444654\] {
+  --tw-bg-opacity: 1;
+  background-color: #0f0f0f!important;
+}
